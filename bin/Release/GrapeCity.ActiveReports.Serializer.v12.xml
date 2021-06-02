@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+	<assembly>
+		<name>GrapeCity.ActiveReports.Serializer.v12</name>
+	</assembly>
+	<members>
+		<member name="T:GrapeCity.ActiveReports.Serializer.ControlCodeDomSerializer">
+			<summary>
+            Summary description for ControlCodeDomSerializer.
+            </summary>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ControlCodeDomSerializer.Serialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object)">
+			<summary>
+            Serializes the specified object into a CodeDOM object. For internal use only.
+            </summary>
+			<param name="manager">The serialization manager to use during serialization.</param>
+			<param name="value">The object to serialize.</param>
+			<returns>A CodeDOM object representing the object that has been serialized.</returns>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ControlCodeDomSerializer.Deserialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object)">
+			<summary>
+            Deserializes the specified serialized CodeDOM object into an object. For internal use only.
+            </summary>
+			<param name="manager">A serialization manager interface that is used during the deserialization process.</param>
+			<param name="codeObject">A serialized CodeDOM object to deserialize.</param>
+			<returns>The deserialized CodeDOM object.</returns>
+		</member>
+		<member name="T:GrapeCity.ActiveReports.Serializer.ReportCodeDomSerializer">
+			<summary>
+            ReportCodeDomSerializer - codeDom serializer that serializes the ActiveReport object itself.
+            </summary>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ReportCodeDomSerializer.Deserialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object)">
+			<summary>
+            Deserializes the specified serialized CodeDOM object into an object. For internal use only.
+            </summary>
+			<param name="manager">A serialization manager interface that is used during the deserialization process.</param>
+			<param name="codeObject">A serialized CodeDOM object to deserialize.</param>
+			<returns>The deserialized CodeDOM object.</returns>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ReportCodeDomSerializer.Serialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object)">
+			<summary>
+            Serializes the specified object into a CodeDOM object. For internal use only.
+            </summary>
+			<param name="manager">The serialization manager to use during serialization.</param>
+			<param name="value">The object to serialize.</param>
+			<returns>A CodeDOM object representing the object that has been serialized.</returns>
+		</member>
+		<member name="T:GrapeCity.ActiveReports.Serializer.ReportRootCodeDomSerializer">
+			<summary>
+            The RootCodeDomSerializerAttribute is on the class ActiveReports3
+            </summary>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ReportRootCodeDomSerializer.Deserialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object)">
+			<summary>
+            Deserialize. For internal use only.
+            </summary>
+			<param name="manager"></param>
+			<param name="codeObject"></param>
+			<returns></returns>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ReportRootCodeDomSerializer.Serialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object)">
+			<summary>
+            Serialize
+            </summary>
+			<param name="manager"></param>
+			<param name="value"></param>
+			<returns></returns>
+		</member>
+		<member name="M:GrapeCity.ActiveReports.Serializer.ReportRootCodeDomSerializer.Serialize(System.ComponentModel.Design.Serialization.IDesignerSerializationManager,System.Object,System.String)">
+			<summary>
+            Serialize. For internal use only.
+            </summary>
+			<param name="manager"></param>
+			<param name="value"></param>
+			<param name="converterFileName"></param>
+			<returns></returns>
+		</member>
+	</members>
+</doc>

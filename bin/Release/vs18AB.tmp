@@ -1,0 +1,134 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cc
+</name>
+</assembly>
+<members>
+<member name="P:cc.frmMsgBox.Mensaje">
+	<summary>
+ Obtiene o establece el mensaje de la forma
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:cc.frmMsgBox.Tiempo">
+	<summary>
+ Obtiene o establece el número de segundos que permanecerá abierta la forma
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:cc.frmMsgBox.Titulo">
+	<summary>
+ Obtiene o establece el título de la forma
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:cc.frmCertificados.ProcesaAgente">
+	<summary>
+ Procesa los certificados de un agente
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:cc.ModCertificadoCalidad.arrMes">
+	<summary>
+ Arreglo con el nombre de los meses
+ </summary>
+	<remarks></remarks>
+</member><member name="F:cc.ModCertificadoCalidad.dicParametros">
+	<summary>
+ Diccionario con los parametros del sistema
+ </summary>
+	<remarks></remarks>
+</member><member name="T:cc.ModCertificadoCalidad.firmante">
+	<summary>
+ Enumeración con las posibles personas que firman
+ </summary>
+	<remarks></remarks>
+</member><member name="F:cc.ModCertificadoCalidad.arrFirmante">
+	<summary>
+ Arreglo con los nombres de las posibles personas que firman
+ </summary>
+	<remarks></remarks>
+</member><member name="F:cc.ModCertificadoCalidad.strImpresora">
+	<summary>
+ Indica la impresora que por defecto utilizará el programa.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:cc.ModCertificadoCalidad.FillCertificado(System.Boolean)">
+	<summary>
+ Determina el tipo de certificado a generar
+ </summary>
+	<param name="closeOnPreviewExit"></param>
+	<remarks></remarks>
+</member><member name="M:cc.ModCertificadoCalidad.FillCertificadoAF_ES(System.Boolean)">
+	<summary>
+ Crea el certificado (formato Aromas-Fragancias), de acuerdo con la información pasada en dicParametros
+ </summary>
+	<remarks></remarks>
+</member><member name="M:cc.ModCertificadoCalidad.FillCertificadoZ_ES(System.Boolean)">
+	<summary>
+ Crea el certificado (formato Zootecnia), de acuerdo con la información pasada en dicParametros
+ </summary>
+	<remarks></remarks>
+</member><member name="M:cc.ModCertificadoCalidad.FillCertificadoAF_EN(System.Boolean)">
+	<summary>
+ Crea el certificado (formato Aromas-Fragancias), de acuerdo con la información pasada en dicParametros
+ </summary>
+	<remarks></remarks>
+</member><member name="M:cc.ModCertificadoCalidad.FillCertificadoZ_EN(System.Boolean)">
+	<summary>
+ Crea el certificado (formato Zootecnia), de acuerdo con la información pasada en dicParametros
+ </summary>
+	<remarks></remarks>
+</member><member name="M:cc.ModCertificadoCalidad.EsFechaValida(System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)">
+	<summary>
+ Valida que la fecha proporcionada sea válida y dentro de un lapso de 2 años
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:cc.frmPreview.impresora">
+	<summary>
+ Obtiene o establece la impresora por defecto que se utilizará.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:cc.frmPreview.closeOnExit">
+	<summary>
+ Obtiene o establece la bandera que indica si al cerrar la ventana se cierra la aplicación.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:cc.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:cc.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:cc.My.Resources.Resources.firma_alejandro_parra">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cc.My.Resources.Resources.firma_uriel_vazquez">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cc.My.Resources.Resources.LuctaIcons">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Icon similar a (Icono).
+</summary>
+</member><member name="T:cc.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

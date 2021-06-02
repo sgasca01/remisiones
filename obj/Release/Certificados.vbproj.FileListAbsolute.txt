@@ -1,0 +1,15 @@
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\Certificados.vbprojAssemblyReference.cache
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.exe.config
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.CertificadoLuctaZ_EN.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.CertificadoLucta_ES_2018.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.CertificadoLucta_ES.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.CertificadoLuctaZ_ES.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.CertificadoLucta_EN.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.FrmCapturaManualCertificado.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.FrmCertificados.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.FrmMsgBox.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.FrmPreview.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.frmSeleccionarImpresora.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\cc.Resources.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\Certificados.vbproj.GenerateResource.cache
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\Release\Certificados.vbproj.CoreCompileInputs.cache

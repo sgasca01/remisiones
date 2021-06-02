@@ -1,0 +1,459 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Remisiones
+</name>
+</assembly>
+<members>
+<member name="T:cc.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.firma_gabriel_posadas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.firma_uriel_vazquez">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.firma_Valentina_Sixto">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.firma_Zapata_Banda_Raquel">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cc.My.Resources.Resources.LuctaIcons">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Icon similar a (Icono).
+</summary>
+</member>
+<member name="T:cc.FrmCapturaManualRemision">
+ <summary>
+ El primero (X) se le conoce como versión mayor y nos indica la versión principal del software. Ejemplo: 1.0.0, 3.0.0
+ El segundo(Y) se le conoce como versión menor y nos indica nuevas funcionalidades. Ejemplo: 1.2.0, 3.3.0
+ El tercero(Z) se le conoce como revisión y nos indica que se hizo una revisión del código por algun fallo. Ejemplo: 1.2.2, 3.3.4
+ </summary>
+</member>
+<member name="M:cc.FrmRemisiones.GetDateFromString(System.String)">
+ <summary>
+ Convierte una cadena a fecha-hora
+ </summary>
+ <param name="cadena"></param>
+ <returns></returns>
+</member>
+<member name="M:cc.FrmRemisiones.AskProceso(System.String,System.String[],System.Boolean)">
+ <summary>
+ Indica cuantos procesos existen con el nombre y los parámetros dados
+ </summary>
+ <param name="proceso">Nombre del proceso, sin incluir .exe</param>
+ <param name="parametros">Lista de parámetros, en el case necesario</param>
+ <returns></returns>
+</member>
+<member name="M:cc.FrmRemisiones.CmdSalir_Click(System.Object,System.EventArgs)">
+ <summary>
+ Termina la ejecución de la aplicación
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="P:cc.FrmMsgBox.Mensaje">
+ <summary>
+ Obtiene o establece el mensaje de la forma
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:cc.FrmMsgBox.Tiempo">
+ <summary>
+ Obtiene o establece el número de segundos que permanecerá abierta la forma
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:cc.FrmMsgBox.Titulo">
+ <summary>
+ Obtiene o establece el título de la forma
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:cc.FrmPreview.Impresora">
+ <summary>
+ Obtiene o establece la impresora por defecto que se utilizará.
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cc.FrmPreview.Print">
+ <summary>
+ Imprime el visor en la impresora asignada
+ </summary>
+</member>
+<member name="P:cc.FrmPreview.CloseOnExit">
+ <summary>
+ Obtiene o establece la bandera que indica si al cerrar la ventana se cierra la aplicación.
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cc.ModRemisiones.GetRunningLike(System.String)">
+ <summary>
+ Obtiene los nombres de los procesos que incluyen parte del nombre proporcionado.
+ </summary>
+ <param name="applicationName">Nombre del proceso que se busca. Process.GetCurrentProcess.ProcessName para ver obtener la instancia actual.</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cc.ModRemisiones.CountRunningLike(System.String)">
+ <summary>
+ Obtiene la cantidad de procesos que incluyen parte del nombre proporcionado.
+ </summary>
+ <param name="applicationName"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:cc.ModRemisiones.ArrMes">
+ <summary>
+ Arreglo con el nombre de los meses
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.ModRemisiones.verLogos">
+ <summary>
+ Incia si se debe mostar el encabezado con logo
+ </summary>
+</member>
+<member name="F:cc.ModRemisiones.dicParametros">
+ <summary>
+ Diccionario con los parametros del sistema
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:cc.ModRemisiones.Firmante">
+ <summary>
+ Enumeración con las posibles personas que firman
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.ModRemisiones.arrFirmante">
+ <summary>
+ Arreglo con los nombres de las posibles personas que firman
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.ModRemisiones.strImpresora">
+ <summary>
+ Indica la impresora que por defecto utilizará el programa.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.ModRemisiones.strPathMaestro">
+ <summary>
+ Path raiz en el servidor principal
+ </summary>
+</member>
+<member name="M:cc.ModRemisiones.ImprimirCertificado(GrapeCity.ActiveReports.Document.SectionDocument@,System.Boolean)">
+ <summary>
+ Manda a la impresora el certificado generado
+ </summary>
+ <param name="reporte"></param>
+ <param name="closeOnPreviewExit"></param>
+</member>
+<member name="M:cc.ModRemisiones.FillCertificado(System.Boolean)">
+ <summary>
+ Determina el tipo de certificado a generar
+ </summary>
+ <param name="closeOnPreviewExit"></param>
+ <remarks></remarks>
+</member>
+<member name="M:cc.ModRemisiones.FillRemisiones(System.Boolean,System.Boolean,System.String)">
+ <summary>
+ Crea el certificado (formato Aromas-Fragancias), de acuerdo con la información pasada en dicParametros
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:cc.ModRemisiones.EsFechaValida(System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)">
+ <summary>
+ Valida que la fecha proporcionada sea válida y dentro de un lapso de 2 años
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:cc.ModRemisiones.GetMuestraName(System.String,System.String)">
+ <summary>
+ Elimina el código en el nombre del artículo
+ </summary>
+ <param name="codigo"></param>
+ <param name="nombre"></param>
+ <returns></returns>
+</member>
+<member name="M:cc.ModRemisiones.ExportaWord(System.String,GrapeCity.ActiveReports.SectionReport,System.Boolean)">
+ <summary>
+ Exporta el certificado en formato rtf (para word)
+ </summary>
+ <param name="nom_rep"></param>
+ <param name="rpt"></param>
+ <param name="askRuta"></param>
+ <returns></returns>
+</member>
+<member name="T:cc.modCorreoOutlook">
+ <summary>
+ Módulo para envío de mensajes de correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._servidor">
+ <summary>
+ Nombre del servidor de coreo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._puerto">
+ <summary>
+ Puerto a través del que se envía el correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._usuarioRemitente">
+ <summary>
+ Cuenta de correo del remitente
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._passwordRemitente">
+ <summary>
+ Password de la cuenta de correo del remitente
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._replyTo">
+ <summary>
+ Cuenta a la que se responderá el correo de forma automática
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._firma">
+ <summary>
+ Firma del usuario para el correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._asunto">
+ <summary>
+ Asunto del correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._cuerpo">
+ <summary>
+ Mensaje del correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._imagen1">
+ <summary>
+ Archivo de la imagen1 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._imagen2">
+ <summary>
+ Archivo de la imagen2 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._imagen3">
+ <summary>
+ Archivo de la imagen3 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._imagen4">
+ <summary>
+ Archivo de la imagen4 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._imagen5">
+ <summary>
+ Archivo de la imagen5 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._destinatarios">
+ <summary>
+ Lista de destinatarios principales
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._copias">
+ <summary>
+ Lista de destinatarios con copia
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._copiasOcultas">
+ <summary>
+ Lista de destinatarios con copia oculta
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._resultado">
+ <summary>
+ Mensaje resultado del envío del correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:cc.modCorreoOutlook._statusResultado">
+ <summary>
+ Código del resultado del envío
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.servidor">
+ <summary>
+ Nombre del servidor de correo
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Puerto">
+ <summary>
+ Puerto a través del que se envía el correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.UsuarioRemitente">
+ <summary>
+ Cuenta de correo del remitente
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.PasswordRemitente">
+ <summary>
+ Password de la cuenta de correo del remitente
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.ReplyTo">
+ <summary>
+ Cuenta a la que se responderá el correo de forma automática
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Firma">
+ <summary>
+ Firma del usuario para el correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Asunto">
+ <summary>
+ Asunto del correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Cuerpo">
+ <summary>
+ Mensaje del correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Imagen1">
+ <summary>
+ Archivo de la imagen1 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Imagen2">
+ <summary>
+ Archivo de la imagen2 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Imagen3">
+ <summary>
+ Archivo de la imagen3 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Imagen4">
+ <summary>
+ Archivo de la imagen4 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Imagen5">
+ <summary>
+ Archivo de la imagen5 que se anexa
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Destinatarios">
+ <summary>
+ Lista de destinatarios principales
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Copias">
+ <summary>
+ Lista de destinatarios con copia
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.CopiasOcultas">
+ <summary>
+ Lista de destinatarios con copia oculta
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.Resultado">
+ <summary>
+ Mensaje resultado del envío del correo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:cc.modCorreoOutlook.StatusResultado">
+ <summary>
+ Código del resultado del envío
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:cc.modCorreoOutlook.envioOutlook(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Realiza el envío de correos electrónicos, a partir de la información proporcionada en los parámetros
+ </summary>
+ <param name="asuntoCorreo"></param>
+ <param name="mensajeCorreo"></param>
+ <param name="imagen1"></param>
+ <param name="imagen2"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

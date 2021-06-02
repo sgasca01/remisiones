@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuracion>
+  <Solucion>CC</Solucion> <!-- código de la aplicación -->
+  <Aplicacion>Generación de Certificados de Calidad</Aplicacion> <!-- nombre descriptivo de la aplicación -->
+  <Descripcion>Programa de generar Certificados de Calidad de productos Lucta</Descripcion> <!-- descripción detallada de la aplicación -->
+  <Version>1.0</Version> <!-- número de versión base de la aplicación -->
+  <Path>C:\Lucta\CC</Path> <!-- directorio raíz de la instalación -->
+</Configuracion>

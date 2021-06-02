@@ -1,0 +1,555 @@
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\instalador.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\cc.exe.config
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\cc.exe
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\cc.pdb
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\cc.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\ActiveReports.Document.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\ActiveReports.PdfExport.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\ActiveReports.RtfExport.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\ActiveReports.Viewer6.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\ActiveReports6.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\Toolkit.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\NPOI.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\NPOI.OOXML.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\NPOI.OpenXml4Net.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\Toolkit.pdb
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\Toolkit.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\bin\x86\Debug\NPOI.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_EN.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_ES.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.CertificadoLucta_EN.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.frmCapturaManualCertificado.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.frmCertificados.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.frmPreview.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.frmSeleccionarImpresora.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.Resources.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\Certificados.vbproj.GenerateResource.Cache
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.exe.licenses
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.exe
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.pdb
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\cc.frmMsgBox.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2012\Projects\DTL\Certificados\obj\x86\Debug\Certificados.vbprojResolveAssemblyReference.cache
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\instalador.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.exe.config
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.exe
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.pdb
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ActiveReports.Document.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ActiveReports.PdfExport.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ActiveReports.RtfExport.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ActiveReports.Viewer6.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ActiveReports6.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ActiveReports.Chart.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ADODB.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\MySql.Data.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OOXML.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OpenXml4Net.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.pdb
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_EN.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_ES.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_EN.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.frmCapturaManualCertificado.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.frmCertificados.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.frmMsgBox.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.frmPreview.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.frmSeleccionarImpresora.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.Resources.resources
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.GenerateResource.Cache
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.exe.licenses
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.CoreCompileInputs.cache
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.exe
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.pdb
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbprojAssemblyReference.cache
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.CopyComplete
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\TypeMock.dll
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\TypeMock.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.xml
+C:\Users\rzertuche.LUCTASP.000\Documents\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES_2018.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.exe.config
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_EN.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES_2018.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_ES.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_EN.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmCapturaManualCertificado.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmCertificados.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmMsgBox.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmPreview.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.frmSeleccionarImpresora.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.Resources.resources
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.GenerateResource.cache
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.exe.licenses
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.CoreCompileInputs.cache
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.exe.config
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.exe
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.pdb
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\cc.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Designer.exe
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Interop.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.exe
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.VisualStudio.Design.4.5.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.VisualStudio.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\TypeMock.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Newtonsoft.Json.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\EnvDTE.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\VSLangProj.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\EnvDTE80.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\VsWebSite.Interop.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\ADODB.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\MySql.Data.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OOXML.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\stdole.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OpenXml4Net.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.MSXML.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Designer.exe.config
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.exe.config
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.pdb
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\TypeMock.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Newtonsoft.Json.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Chart.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Design.Win.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Designer.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Document.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Image.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Pdf.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Extensibility.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Win.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Wpf.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.VisualStudio.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.CopyComplete
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.exe
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\obj\x86\Debug\cc.pdb
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Word.v12.resources.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\EPPlus.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\EPPlus.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\app.config
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\installerInfo.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Zstandard.Net.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Ubiety.Dns.Core.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Renci.SshNet.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\System.Buffers.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\System.Memory.dll
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.dll.config
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\MySql.Data.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\Renci.SshNet.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\System.Buffers.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\VisualStudio\Visual Studio 2017\Projects\LuctaVS17\Certificados\bin\x86\Debug\System.Memory.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.exe.config
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_EN.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES_2018.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_ES.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.CertificadoLucta_EN.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmCapturaManualCertificado.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmCertificados.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmMsgBox.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.FrmPreview.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.frmSeleccionarImpresora.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.Resources.resources
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.GenerateResource.cache
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.CoreCompileInputs.cache
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.exe
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.pdb
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\installerInfo.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\app.config
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\cc.exe.config
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\cc.exe
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\cc.pdb
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\cc.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Interop.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.VisualStudio.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\TypeMock.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\EnvDTE.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\VSLangProj.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\EnvDTE80.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\VsWebSite.Interop.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\NPOI.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\EPPlus.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\ADODB.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\MySql.Data.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OOXML.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\stdole.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Zstandard.Net.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Ubiety.Dns.Core.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Renci.SshNet.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OpenXml4Net.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.MSXML.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\System.Buffers.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\System.Memory.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.pdb
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Toolkit.dll.config
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\TypeMock.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\EPPlus.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\MySql.Data.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\Renci.SshNet.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\System.Buffers.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\System.Memory.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Chart.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Design.Win.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Document.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Image.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Pdf.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Word.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Extensibility.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Win.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Wpf.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.VisualStudio.v12.resources.dll
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbproj.CopyComplete
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\cc.exe.licenses
+C:\Users\japerez\Documents\S.C.Lucta\LuctaVS17\Certificados\obj\x86\Debug\Certificados.vbprojAssemblyReference.cache
+C:\SCLuctaApps\Certificados\bin\x86\Debug\installerInfo.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\app.config
+C:\SCLuctaApps\Certificados\bin\x86\Debug\cc.exe.config
+C:\SCLuctaApps\Certificados\bin\x86\Debug\cc.exe
+C:\SCLuctaApps\Certificados\bin\x86\Debug\cc.pdb
+C:\SCLuctaApps\Certificados\bin\x86\Debug\cc.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Designer.exe
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Interop.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.exe
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.VisualStudio.Design.4.5.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.VisualStudio.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\TypeMock.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\EnvDTE.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\VSLangProj.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\EnvDTE80.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\VsWebSite.Interop.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\ADODB.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\stdole.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.MSXML.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Designer.exe.config
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.exe.config
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+C:\SCLuctaApps\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\TypeMock.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.xml
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Chart.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Design.Win.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Designer.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Document.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Image.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Pdf.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Word.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Extensibility.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Win.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Wpf.v12.resources.dll
+C:\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.VisualStudio.v12.resources.dll
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.exe.config
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_EN.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES_2018.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_ES.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLucta_EN.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmCapturaManualCertificado.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmCertificados.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmMsgBox.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmPreview.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.frmSeleccionarImpresora.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.Resources.resources
+C:\SCLuctaApps\Certificados\obj\x86\Debug\Certificados.vbproj.GenerateResource.cache
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.exe.licenses
+C:\SCLuctaApps\Certificados\obj\x86\Debug\Certificados.vbproj.CoreCompileInputs.cache
+C:\SCLuctaApps\Certificados\obj\x86\Debug\Certificados.vbproj.CopyComplete
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.exe
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.xml
+C:\SCLuctaApps\Certificados\obj\x86\Debug\cc.pdb
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\installerInfo.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\app.config
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\cc.exe.config
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\cc.exe
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\cc.pdb
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\cc.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Interop.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.VisualStudio.Design.4.5.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.VisualStudio.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Toolkit.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\TypeMock.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\EnvDTE.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\VSLangProj.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\EnvDTE80.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\VsWebSite.Interop.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\NPOI.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\EPPlus.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\ADODB.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\MySql.Data.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\NPOI.OOXML.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\stdole.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Zstandard.Net.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Ubiety.Dns.Core.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Renci.SshNet.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Microsoft.MSXML.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\System.Buffers.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\System.Memory.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Chart.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Design.Win.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Diagnostics.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Document.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Word.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Extensibility.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Viewer.Wpf.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\IBM.Data.DB2.iSeries.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Toolkit.pdb
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Toolkit.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Toolkit.dll.config
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\TypeMock.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Typemock.ArrangeActAssert.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.ArsClient.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\GrapeCity.ActiveReports.Serializer.v12.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\EPPlus.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\MySql.Data.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\Renci.SshNet.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\System.Buffers.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\System.Memory.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Chart.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Design.Win.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Document.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Image.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Pdf.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Export.Word.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Extensibility.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Win.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Wpf.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\bin\x86\Debug\zh-CN\GrapeCity.ActiveReports.VisualStudio.v12.resources.dll
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.exe.config
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_EN.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES_2018.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLucta_ES.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLuctaZ_ES.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.CertificadoLucta_EN.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmCapturaManualCertificado.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmCertificados.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmMsgBox.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.FrmPreview.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.frmSeleccionarImpresora.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.Resources.resources
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\Certificados.vbproj.GenerateResource.cache
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.exe.licenses
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\Certificados.vbproj.CoreCompileInputs.cache
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\Certificados.vbproj.CopyComplete
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.exe
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.xml
+C:\Users\Sgasca\Documents\Visual Studio 2019\SCLuctaApps\Certificados\obj\x86\Debug\cc.pdb
