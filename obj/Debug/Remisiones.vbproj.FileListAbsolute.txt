@@ -165,3 +165,4 @@ C:\Users\Sgasca\source\repos\Remisiones\obj\Debug\Remisiones.vbproj.CopyComplete
 C:\Users\Sgasca\source\repos\Remisiones\obj\Debug\Remisiones.exe
 C:\Users\Sgasca\source\repos\Remisiones\obj\Debug\Remisiones.xml
 C:\Users\Sgasca\source\repos\Remisiones\obj\Debug\Remisiones.pdb
+C:\Users\Sgasca\source\repos\Remisiones\obj\Debug\Remisiones.vbprojAssemblyReference.cache
