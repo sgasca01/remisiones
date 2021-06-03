@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{520EA3C8-5926-44B0-B91E-265921E19406}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>cc.My.MyApplication</StartupObject>
-    <RootNamespace>cc</RootNamespace>
+    <StartupObject>rm.My.MyApplication</StartupObject>
+    <RootNamespace>rm</RootNamespace>
     <AssemblyName>Remisiones</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
@@ -184,9 +184,8 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Toolkit, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Utilerias\Toolkit\bin\Release\Toolkit.dll</HintPath>
+    <Reference Include="Toolkit">
+      <HintPath>..\..\..\Documents\Visual Studio 2019\Utilerias\Toolkit\bin\Release\Toolkit.dll</HintPath>
     </Reference>
     <Reference Include="TypeMock, Version=8.6.1.0, Culture=neutral, PublicKeyToken=3dae460033b8d8e2, processorArchitecture=MSIL">
       <HintPath>..\packages\Typemock.Isolator.8.6.1.0\lib\TypeMock.dll</HintPath>
